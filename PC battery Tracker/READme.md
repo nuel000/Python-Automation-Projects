@@ -25,7 +25,6 @@ This code assists in the automatic tracking of your PC's battery percentage, ena
 
 **Enhancing Portability** : If you frequently use your laptop in situations where a power outlet may not be readily available, this script helps you stay informed about your
 
-https://github.com/nuel000/Python-Automation-Projects/assets/102439386/dae719a3-513a-4d29-977c-91789a9bfe3e
 
  battery status. Whether you're on the go or in a remote location, you can rely on timely notifications to manage your power usage effectively.
 
@@ -41,3 +40,4 @@ https://github.com/nuel000/Python-Automation-Projects/assets/102439386/dae719a3-
 
 - Specify the percentage change you want to be notified for and the script does the rest.
 
+https://github.com/nuel000/Python-Automation-Projects/assets/102439386/dae719a3-513a-4d29-977c-91789a9bfe3e
