@@ -1,0 +1,6 @@
+Open the command prompt from your PC 
+
+install psutil - pip install psutil
+install plyer - pip install plyer
+install the Tkinter - pip install Tkinter
+then run the script by using "python script_name.py" i.e battery.py in this case
