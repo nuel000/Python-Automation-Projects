@@ -23,7 +23,11 @@ This code assists in the automatic tracking of your PC's battery percentage, ena
 
 **Resource Conservation** : For users concerned about power conservation, this script can assist in monitoring battery drain and identifying applications or processes that are consuming excessive power. It allows for proactive power management by notifying users when their device's power is significantly impacted.
 
-**Enhancing Portability** : If you frequently use your laptop in situations where a power outlet may not be readily available, this script helps you stay informed about your battery status. Whether you're on the go or in a remote location, you can rely on timely notifications to manage your power usage effectively.
+**Enhancing Portability** : If you frequently use your laptop in situations where a power outlet may not be readily available, this script helps you stay informed about your
+
+https://github.com/nuel000/Python-Automation-Projects/assets/102439386/dae719a3-513a-4d29-977c-91789a9bfe3e
+
+ battery status. Whether you're on the go or in a remote location, you can rely on timely notifications to manage your power usage effectively.
 
 **Battery Health Assessment**: Regularly monitoring your battery's charge and discharge patterns can provide insights into your battery's health over time. By analyzing how your battery behaves under different conditions, you can make informed decisions about battery replacement or maintenance.
 
